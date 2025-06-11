@@ -44,7 +44,7 @@ This project is built with:
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/Nandini-678/flight-price-predictor.git
+git clone https://github.com/Nandini-678/flight-price-predictor.git
 cd flight-price-predictor
 ```
 
